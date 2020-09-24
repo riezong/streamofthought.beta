@@ -14,7 +14,7 @@ var XPOS = [0, 260, 520];
 
 // SoundFile showerSound;
 
-var scene = 1;
+var scene = 0;
 var countdown;
 var state = 0;
 var timer;
