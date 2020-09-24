@@ -86,13 +86,12 @@ function draw() {
     if (scene == 0) {
         if (scene == 0) {
 
-            vid = createVideo(
-      ['data/Opening.mp4'],
+            vid = createVideo(['data/Opening.mp4, data/Opening/webm'],
                 vidLoad
             );
 
-            vid.size(width, height);
-            
+            vid.size(1024, 576);
+
             vid.hide();
         }
     }
