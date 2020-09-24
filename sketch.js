@@ -29,20 +29,20 @@ var vid;
 // Declare video files
 
 var title = [
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Opening.gif"
+  "data/Opening.gif"
 ];
 
 var Kuleshov = [
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Running_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Running_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Running_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Running_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Running_Render.gif",
-  "https://raw.githubusercontent.com/riezong/streamofthought/master/data/Tap_Running_Render.gif",
+  "data/Tap_Render.gif",
+  "data/Tap_Running_Render.gif",
+  "data/Tap_Render.gif",
+  "data/Tap_Render.gif",
+  "data/Tap_Running_Render.gif",
+  "data/Tap_Render.gif",
+  "data/Tap_Running_Render.gif",
+  "data/Tap_Running_Render.gif",
+  "data/Tap_Running_Render.gif",
+  "data/Tap_Running_Render.gif",
 ];
 
 var shower = [
