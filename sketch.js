@@ -70,6 +70,7 @@ var mnemonicCount = 0;
 
 function setup() {
     createCanvas(1920 / 2, 1080 / 2);
+    background(0);
     textSize(16);
     textFont('Arial');
 
