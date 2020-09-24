@@ -92,12 +92,14 @@ function draw() {
             );
 
             vid.size(width, height);
+            
+            vid.hide();
         }
     }
 }
 
 // This function is called when the video loads
 function vidLoad() {
-  vid.loop();
-  vid.volume(0);
+    vid.loop();
+    vid.volume(0);
 }
